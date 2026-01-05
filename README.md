@@ -82,7 +82,7 @@ The analysis highlights the most influential features contributing to phishing d
 
 The full research paper is available in the repository:
 
-- `paper/Phishing_Detection_Framework.pdf`
+- `Paper/Phishing_Detection_Framework.pdf`
 
 ---
 
