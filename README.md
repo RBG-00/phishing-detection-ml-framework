@@ -26,7 +26,17 @@ The proposed framework follows a unified experimental pipeline applied consisten
 3. Feature selection and ranking  
 4. Model training using supervised machine learning classifiers  
 5. Model evaluation using stratified cross-validation  
-6. Feature importance analysis using Random Forest  
+6. Feature importance analysis using Random Forest
+
+## 📌 Framework Overview
+![Framework Overview](figures/framework_overview.png)
+
+## 🔄 Implementation Workflow
+![Implementation Workflow](figures/implementation_workflow.png)
+
+## 📊 Feature Importance Analysis
+![Feature Importance](figures/feature_importance.png)
+   
 
 ---
 
