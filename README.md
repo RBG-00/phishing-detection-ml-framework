@@ -82,3 +82,27 @@ The analysis highlights the most influential features contributing to phishing d
 
 The full research paper is available in the repository:
 
+- `paper/Phishing_Detection_Framework.pdf`
+
+---
+
+## 👥 Authors
+
+- **Ahmad Ghassan Ata**  
+- **Mohammad Eyad Samada**  
+
+Department of Cybersecurity  
+Zarqa University, Jordan
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this work with proper attribution.
+
+---
+
+## ⭐ Citation
+
+If you use this work in your research, please cite it appropriately.
